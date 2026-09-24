@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: EUPL-1.2
+
 package openid4vci
 
 import (
